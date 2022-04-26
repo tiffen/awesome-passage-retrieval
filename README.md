@@ -38,7 +38,7 @@ Please feel free to send a pull request for valuable papers or resources.
 
 ### 2021
 
-- **Neural Retrieval for Question Answering with Cross-Attention Supervised Data Augmentation** \ 
+- **Neural Retrieval for Question Answering with Cross-Attention Supervised Data Augmentation** \
     *Yinfei Yang, Ning Jin, Kuo Lin, Mandy Guo, Daniel Cer* \
     ACL-IJCNLP, 2021. [[Paper](https://aclanthology.org/2021.acl-short.35)]
 
@@ -46,7 +46,7 @@ Please feel free to send a pull request for valuable papers or resources.
     *Devendra Singh Sachan, Mostofa Patwary, Mohammad Shoeybi, Neel Kant, Wei Ping, William L Hamilton, Bryan Catanzaro* \
     ACL-IJCNLP, 2021. [[Paper](https://aclanthology.org/2021.acl-long.519)] [[Code](https://github.com/NVIDIA/Megatron-LM)]
 
-- **Improving Document Representations by Generating Pseudo Query Embeddings for Dense Retrieval** \ 
+- **Improving Document Representations by Generating Pseudo Query Embeddings for Dense Retrieval** \
     *Hongyin Tang, Xingwu Sun, Beihong Jin, JingangWang, Fuzheng Zhang, Wei Wu* \
     ACL-IJCNLP, 2021. [[Paper](https://aclanthology.org/2021.acl-long.392)]
 
@@ -87,6 +87,14 @@ Please feel free to send a pull request for valuable papers or resources.
     arXiv, 2021. [[Paper](http://arxiv.org/abs/2104.05740)] [[Code](http://pyserini.io/)]
 
 ### 2020
+
+- **Is Retriever Merely an Approximator of Reader?** \
+    *Sohee Yang and Minjoon Seo* \
+    arXiv, 2020. [[Paper](https://arxiv.org/abs/2010.10999)]
+
+- **Pre-training Tasks for Embedding-based Large-scale Retrieval** \
+    *Wei-Cheng Chang, Felix X. Yu, Yin-Wen Chang, Yiming Yang, Sanjiv Kumar* \
+    ICLR, 2020. [[Paper](https://openreview.net/forum?id=rkg-mA4FDr)]
 
 - **Neural Passage Retrieval with Improved Negative Contrast** \
     *Jing Lu, Gustavo Hernandez Abrego, Ji Ma, Jianmo Ni, Yinfei Yang* \
