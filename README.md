@@ -74,6 +74,10 @@ Please feel free to send a pull request for valuable papers or resources.
     *Luyu Gao, Yunyi Zhang, Jiawei Han, Jamie Callan* \
     RepL4NLP, 2021. [[Paper](https://aclanthology.org/2021.repl4nlp-1.31/)] [[Code](https://github.com/luyug/GradCache)]
 
+- **Relevance-guided Supervision for OpenQA with ColBERT** \
+    *Omar Khattab, Christopher Potts and Matei Zaharia* \
+    TACL, 2021. [[Paper](https://aclanthology.org/2021.tacl-1.55/)] [[Code](https://github.com/stanfordnlp/ColBERT-QA)]
+
 - **Distilling Knowledge from Reader to Retriever for Question Answering** \
     *Gautier Izacard, Edouard Grave* \
     ICLR, 2021. [[Paper](https://openreview.net/forum?id=NTEz-6wysdb)] [[Code](github.com/facebookresearch/FiD)]
