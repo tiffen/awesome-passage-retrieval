@@ -24,6 +24,14 @@ Please feel free to send a pull request for valuable papers or resources.
 
 ### 2022
 
+- **Adversarial Retriever-Reranker for Dense Text Retrieval** \
+    *Hang Zhang, Yeyun Gong, Yelong Shen, Jiancheng Lv, Nan Duan, Weizhu Chen* \
+    ICLR, 2022. [[Paper](https://openreview.net/forum?id=MR7XubKUFB)] [[Code](https://github.com/microsoft/AR2)]
+
+- **A Thorough Examination on Zero-shot Dense Retrieval** \
+    *Ruiyang Ren, Yingqi Qu, Jing Liu, Wayne Xin Zhao, Qifei Wu, Yuchen Ding, Hua Wu, Haifeng Wang and Ji-Rong Wen* \
+    arXiv, 2022. [[Paper](https://arxiv.org/abs/2204.12755)]
+
 - **Hyperlink-induced Pre-training for Passage Retrieval in Open-domain Question Answering** \
     *Jiawei Zhou, Xiaoguang Li, Lifeng Shang, Lan Luo, Ke Zhan, Enrui Hu, Xinyu Zhang, Hao Jiang, Zhao Cao, Fan Yu, Xin Jiang, Qun Liu, Lei Chen* \
     ACL, 2022. [[Paper](http://arxiv.org/abs/2203.06942)] [[Code](https://github.com/jzhoubu/HLP)]
@@ -37,6 +45,14 @@ Please feel free to send a pull request for valuable papers or resources.
     ACL, 2022. [[Paper](http://arxiv.org/abs/2110.07524)] [[Code](https://github.com/chengzhipanpan/DCSR)]
 
 ### 2021
+
+- **Sparse, Dense, and Attentional Representations for Text Retrieval** \
+    *Yi Luan, Jacob Eisenstein, Kristina Toutanova, Michael Collins* \
+    TACL, 2021. [[Paper](https://aclanthology.org/2021.tacl-1.20)] [[Code](https://github.com/google-research/language/tree/master/language/multivec)]
+
+- **Efficiently Teaching an Effective Dense Retriever with Balanced Topic Aware Sampling** \
+    *Sebastian Hofstätter, Sheng-Chieh Lin, Jheng-Hong Yang, Jimmy Lin and Allan Hanbury* \
+    SIGIR, 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3404835.3462891)] [[Code](https://github.com/sebastian-hofstaetter/tas-balanced-dense-retrieval)]
 
 - **Neural Retrieval for Question Answering with Cross-Attention Supervised Data Augmentation** \
     *Yinfei Yang, Ning Jin, Kuo Lin, Mandy Guo, Daniel Cer* \
@@ -74,7 +90,7 @@ Please feel free to send a pull request for valuable papers or resources.
     *Luyu Gao, Yunyi Zhang, Jiawei Han, Jamie Callan* \
     RepL4NLP, 2021. [[Paper](https://aclanthology.org/2021.repl4nlp-1.31/)] [[Code](https://github.com/luyug/GradCache)]
 
-- **Relevance-guided Supervision for OpenQA with ColBERT** \
+- **Relevance-Guided Supervision for OpenQA with ColBERT** \
     *Omar Khattab, Christopher Potts and Matei Zaharia* \
     TACL, 2021. [[Paper](https://aclanthology.org/2021.tacl-1.55/)] [[Code](https://github.com/stanfordnlp/ColBERT-QA)]
 
@@ -86,17 +102,25 @@ Please feel free to send a pull request for valuable papers or resources.
     *Lee Xiong, Chenyan Xiong, Ye Li, Kwok-Fung Tang, Jialin Liu, Paul Bennett, Junaid Ahmed, Arnold Overwijk* \
     ICLR, 2021. [[Paper](https://openreview.net/forum?id=zeFrfgyZln)] [[Code](http://aka.ms/ance)]
 
+- **Answering Complex Open-Domain Questions with Multi-Hop Dense Retrieval** \
+    *Wenhan Xiong, Xiang Lorraine Li, Srinivasan Iyer, Jingfei Du, Patrick Lewis, William Wang, Yashar Mehdad, Wen-tau Yih, Sebastian Riedel, Douwe Kiela, Barlas Oguz* \
+    ICLR, 2021. [[Paper](https://openreview.net/forum?id=EMHoBG0avc1)] [[Code](https://github.com/facebookresearch/multihop_dense_retrieval)]
+
 - **A Replication Study of Dense Passage Retriever** \
     *Xueguang Ma, Kai Sun, Ronak Pradeep, and Jimmy Lin* \
     arXiv, 2021. [[Paper](http://arxiv.org/abs/2104.05740)] [[Code](http://pyserini.io/)]
 
 ### 2020
 
+- **ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT** \
+    *Omar Khattab and Matei Zaharia* \
+    SIGIR, 2020. [[Paper](https://dl.acm.org/doi/10.1145/3397271.3401075)] [[Code](https://github.com/stanford-futuredata/ColBERT)]
+
 - **Is Retriever Merely an Approximator of Reader?** \
     *Sohee Yang and Minjoon Seo* \
     arXiv, 2020. [[Paper](https://arxiv.org/abs/2010.10999)]
 
-- **Pre-training Tasks for Embedding-based Large-scale Retrieval** \
+- **Pre-training Tasks for Embedding-Based Large-scale Retrieval** \
     *Wei-Cheng Chang, Felix X. Yu, Yin-Wen Chang, Yiming Yang, Sanjiv Kumar* \
     ICLR, 2020. [[Paper](https://openreview.net/forum?id=rkg-mA4FDr)]
 
@@ -104,19 +128,23 @@ Please feel free to send a pull request for valuable papers or resources.
     *Jing Lu, Gustavo Hernandez Abrego, Ji Ma, Jianmo Ni, Yinfei Yang* \
     arXiv, 2020. [[Paper](http://arxiv.org/abs/2010.12523)]
 
+- **Embedding-based Retrieval in Facebook Search** \
+    *Jui-Ting Huang, Ashish Sharma, Shuying Sun, Li Xia, David Zhang, Philip Pronin, Janani Padmanabhan, Giuseppe Ottaviano and Linjun Yang* \
+    KDD, 2022. [[Paper](https://dl.acm.org/doi/10.1145/3394486.3403305)]
+
 - **Dense Passage Retrieval for Open-Domain Question Answering** \
     *Vladimir Karpukhin, Barlas Oguz, Sewon Miny, Patrick Lewis, Ledell Wu, Sergey Edunov, Danqi Chen, Wen-tau Yih* \
     EMNLP, 2020. [[Paper](http://arxiv.org/abs/2004.04906)] [[Code](https://github.com/facebookresearch/DPR)]
 
 ### 2019
 
-- **Latent Retrieval forWeakly Supervised Open Domain Question Answering** \
+- **Latent Retrieval for Weakly Supervised Open Domain Question Answering** \
     *Kenton Lee, Ming-Wei Chang, Kristina Toutanova* \
     ACL, 2019. [[Paper](https://aclanthology.org/P19-1612)]
 
 ### 2017
 
-- **ReadingWikipedia to Answer Open-Domain Questions** \
+- **Reading Wikipedia to Answer Open-Domain Questions** \
     *Danqi Chen, Adam Fisch, Jason Weston, Antoine Bordes* \
     ACL, 2017. [[Paper](https://aclanthology.org/P17-1171/)] [[Code](https://github.com/facebookresearch/DrQA)]
 
