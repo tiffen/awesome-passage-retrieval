@@ -24,6 +24,14 @@ Please feel free to send a pull request for valuable papers or resources.
 
 ### 2022
 
+- **GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation of Dense Retrieval** \
+    *Kexin Wang, Nandan Thakur, Nils Reimers, Iryna Gurevych* \
+    NAACL, 2022. [[Paper](http://arxiv.org/abs/2112.07577)] [[Code](https://github.com/UKPLab/gpl)]
+
+- **ERNIE-Search: Bridging Cross-Encoder with Dual-Encoder via Self On-the-fly Distillation for Dense Passage Retrieval** \
+    *Yuxiang Lu, Yiding Liu, Jiaxiang Liu, Yunsheng Shi, Zhengjie Huang, Shikun Feng, Yu Sun, Hao Tian, HuaWu, ShuaiqiangWang, Dawei Yin and Haifeng Wang* \
+    arXiv, 2022. [[Paper](http://arxiv.org/abs/2205.09153)]
+
 - **Adversarial Retriever-Reranker for Dense Text Retrieval** \
     *Hang Zhang, Yeyun Gong, Yelong Shen, Jiancheng Lv, Nan Duan, Weizhu Chen* \
     ICLR, 2022. [[Paper](https://openreview.net/forum?id=MR7XubKUFB)] [[Code](https://github.com/microsoft/AR2)]
@@ -78,6 +86,10 @@ Please feel free to send a pull request for valuable papers or resources.
     *Luyu Gao and Jamie Callan* \
     EMNLP, 2021. [[Paper](https://aclanthology.org/2021.emnlp-main.75)] [[Code](https://github.com/luyug/Condenser)]
 
+- **Dense Hierarchical Retrieval for Open-Domain Question Answering** \
+    *Ye Liu, Kazuma Hashimoto, Yingbo Zhou, Semih Yavuz, Caiming Xiong, Philip S. Yu* \
+    EMNLP, 2021. [[Paper](https://aclanthology.org/2021.findings-emnlp.19)] [[Paper](https://github.com/yeliu918/DHR)]
+
 - **RocketQAv2: A Joint Training Method for Dense Passage Retrieval and Passage Re-ranking** \
     *Ruiyang Ren, Yingqi Qu, Jing Liu, Wayne Xin Zhao, Qiaoqiao She, Hua Wu, Haifeng Wang, and Ji-Rong Wen* \
     EMNLP, 2021. [[Paper](10.18653/v1/2021.emnlp-main.224)] [[Code](https://github.com/PaddlePaddle/RocketQA/tree/main/research/RocketQAv2_EMNLP2021)]
@@ -89,6 +101,10 @@ Please feel free to send a pull request for valuable papers or resources.
 - **Scaling Deep Contrastive Learning Batch Size under Memory Limited Setup** \
     *Luyu Gao, Yunyi Zhang, Jiawei Han, Jamie Callan* \
     RepL4NLP, 2021. [[Paper](https://aclanthology.org/2021.repl4nlp-1.31/)] [[Code](https://github.com/luyug/GradCache)]
+
+- **In-Batch Negatives for Knowledge Distillation with Tightly-Coupled Teachers for Dense Retrieval** \
+    *Sheng-Chieh Lin, Jheng-Hong Yang and Jimmy Lin* \
+    RepL4NLP, 2021. [[Paper](https://aclanthology.org/2021.repl4nlp-1.17)]
 
 - **Relevance-Guided Supervision for OpenQA with ColBERT** \
     *Omar Khattab, Christopher Potts and Matei Zaharia* \
@@ -151,5 +167,5 @@ Please feel free to send a pull request for valuable papers or resources.
 ## Resources
 
 - **Gradient Cached Dense Passage Retrieval** \
-    [[Github](https://github.com/facebookresearch/DrQA)]
+    [[Github](https://github.com/luyug/GC-DPR)]
 
