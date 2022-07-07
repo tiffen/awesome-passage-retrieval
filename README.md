@@ -52,7 +52,15 @@ Please feel free to send a pull request for valuable papers or resources.
     *Bohong Wu, Zhuosheng Zhang, JinyuanWang, Hai Zhao* \
     ACL, 2022. [[Paper](http://arxiv.org/abs/2110.07524)] [[Code](https://github.com/chengzhipanpan/DCSR)]
 
+- **Curriculum Learning for Dense Retrieval Distillation** \
+    *Hansi Zeng, Hamed Zamani, Vishwa Vinay* \
+    SIGIR, 2022. [[Paper](http://arxiv.org/abs/2204.13679)] [[Code](https://github.com/HansiZeng/CL-DRD)]
+
 ### 2021
+
+- **BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models** \
+    *Nandan Thakur, Nils Reimers, Andreas Rücklé, Abhishek Srivastava, Iryna Gurevych* \
+    NeurIPS, 2021. [[Paper](http://arxiv.org/abs/2104.08663)] [[Code](https://github.com/UKPLab/beir)]
 
 - **Sparse, Dense, and Attentional Representations for Text Retrieval** \
     *Yi Luan, Jacob Eisenstein, Kristina Toutanova, Michael Collins* \
