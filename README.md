@@ -12,6 +12,7 @@ Please feel free to send a pull request for valuable papers or resources.
 
 - [Papers](#papers)
 
+    - [2025](#2025)
     - [2022](#2022)
     - [2021](#2021)
     - [2020](#2020)
@@ -21,6 +22,12 @@ Please feel free to send a pull request for valuable papers or resources.
 - [Resources](#resources)
 
 ## Papers
+
+### 2025
+
+- **ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance** \
+    *Sijia Yao, Pengcheng Huang, Zhenghao Liu, Yu Gu, Yukun Yan, Shi Yu, Ge Yu* \
+    EMNLP, 2025. [[Paper](https://aclanthology.org/2025.emnlp-main.963/)] [[Code](https://github.com/NEUIR/ExpandR)]
 
 ### 2022
 
